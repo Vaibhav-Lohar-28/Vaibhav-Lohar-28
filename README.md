@@ -1,4 +1,4 @@
-# 💫 About Me:  
+# 💫 About Me:     
 # Hi there! 👋 I'm Vaibhav Lohar<br><br>I'm a 3rd Year B.Tech Data Science student with a passion for building **AI-powered solutions** that solve real-world problems. Currently focused on **Machine Learning, Natural Language Processing, and Cloud Deployment**.<br><br>Currently Working On: An AI-powered Loan Management System with ML-based predictions, RAG chatbot, and automated EMI tracking<br><br>Currently Learning: Advanced ML algorithms, LangChain, AWS deployment, and production-level MLOps<br><br>Goal: Seeking Data Science/ML Engineering internship opportunities to apply my skills in real-world scenarios<br><br><br>
 
 
